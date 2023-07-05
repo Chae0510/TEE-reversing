@@ -36,6 +36,8 @@
 - The ARMs race to TrustZone (by Jonathan Levin)
 	- http://technologeeks.com/files/TZ.pdf
 
+- Embedded Systems Security and TrustZone
+	- https://embeddedsecurity.io/sec-tz-run#sec:tz-run-s-call
 # TEE Exploits/Security Analysis
 
 ## HiSilicon/Huawei (TrustedCore)
